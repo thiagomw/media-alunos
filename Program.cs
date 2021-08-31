@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace aula_2
+namespace media_alunos
 {
     class Program
     {
