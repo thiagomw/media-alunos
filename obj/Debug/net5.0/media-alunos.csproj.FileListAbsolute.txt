@@ -1,0 +1,16 @@
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\media-alunos.exe
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\media-alunos.deps.json
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\media-alunos.runtimeconfig.json
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\media-alunos.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\media-alunos.dll
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\ref\media-alunos.dll
+C:\Users\Thiago\Desktop\c#\media-alunos\bin\Debug\net5.0\media-alunos.pdb
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.dll
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\ref\media-alunos.dll
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.pdb
+C:\Users\Thiago\Desktop\c#\media-alunos\obj\Debug\net5.0\media-alunos.genruntimeconfig.cache
